@@ -37,7 +37,7 @@ El modelo de Windkessel de cuatro elementos contiene dos elementos dinámicos. P
 
 \2. Existe una clara analogía entre los elementos eléctricos y los componentes hidráulicos implicados en el efecto Windkessel. En consecuencia, se relacionan fácilmente con el significado hemodinámico y el acoplamiento ventrículo-arterial.
 
-Palabras clave: Sistema cardiovascular; Controlador PI; Normotenso; hipertenso; Circuito
+Palabras clave: Controlador PI; Normotenso; Hipotenso; Hipertenso; Función de Transferencia
 
 ## Lista de archivos incluidos en el repositorio
 \1. Cuaderno computacional de MATLAB [.mlx].
